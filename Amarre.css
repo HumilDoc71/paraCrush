@@ -22,6 +22,8 @@ h1 {
 .modo_seczo img {
     margin: 0 auto;
     display: block;
+    width: 436px;
+    height: 429px;
 }
 
 #btn_si {
